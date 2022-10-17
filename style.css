@@ -1,18 +1,18 @@
-h1{
+h1 {
     font-size: 30px ;
     color: rgb(31, 93, 228) ;
     text-align: center ;
     }
-p{ font-size: 20px ;
+p { font-size: 20px ;
  color: rgb(252, 1, 1);
 text-align: right;
 }
-    body{
+    body {
         font-size: 20px ;
         background-color: rgb(0, 0, 0) ;
         color: rgb(88, 60, 211) ;
     }
-image{ height: 90% ;
+image { height: 90% ;
     width: 70px ;
     text-align: center ;
     border: 5px  black ;
