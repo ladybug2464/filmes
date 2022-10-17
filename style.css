@@ -3,11 +3,14 @@ h1{
     color: rgb(31, 93, 228) ;
     text-align: center ;
     }
-
+p{ font-size: 20px ;
+ color: rgb(252, 1, 1);
+text-align: right;
+}
     body{
-        font-size: 15px ;
+        font-size: 20px ;
         background-color: rgb(0, 0, 0) ;
-        color: aliceblue ;
+        color: rgb(88, 60, 211) ;
     }
 image{ height: 90% ;
     width: 100px ;
